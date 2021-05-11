@@ -94,56 +94,56 @@
                 data1: [
                     {
                         id: '0',
-                        image: "/images/Irelia.jpg",
+                        image: "./images/Irelia.jpg",
                         name: 'PROJECT: Irelia',
                         price: '43.65',
                         count: 0
                     },
                     {
                         id: '1',
-                        image: '/images/Irelia2.jpg',
+                        image: './images/Irelia2.jpg',
                         name: 'Aviator Irelia',
                         price: '76.63',
                         count: 0
                     },
                     {
                         id: '2',
-                        image: '/images/Zilean.jpg',
+                        image: './images/Zilean.jpg',
                         name: 'Sugar Rush Zilean',
                         price: '43.65',
                         count: 0
                     },
                     {
                         id: '3',
-                        image: '/images/Yuumi.jpg',
+                        image: './images/Yuumi.jpg',
                         name: 'Battle Principal Yuumi',
                         price: '50.65',
                         count: 0
                     },
                     {
                         id: '4',
-                        image: '/images/XinZhao.jpg',
+                        image: './images/XinZhao.jpg',
                         name: 'Secret Agent Xin Zhao',
                         price: '83.25',
                         count: 0
                     },
                     {
                         id: '5',
-                        image: '/images/Nunu.jpg',
+                        image: './images/Nunu.jpg',
                         name: 'Nunu & Willump',
                         price: '43.65',
                         count: 0
                     },
                     {
                         id: '6',
-                        image: '/images/Lux.jpg',
+                        image: './images/Lux.jpg',
                         name: 'Elementalist Lux',
                         price: '76.63',
                         count: 0
                     },
                     {
                         id: '7',
-                        image: '/images/Gnar.jpg',
+                        image: './images/Gnar.jpg',
                         name: 'Super Galaxy Gnar',
                         price: '76.63',
                         count: 0
