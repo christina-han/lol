@@ -1,4 +1,6 @@
 # lol
+Link to project:
+https://christina-han.github.io/lol/
 
 ## Project setup
 ```
